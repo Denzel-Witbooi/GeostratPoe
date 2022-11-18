@@ -25,6 +25,9 @@ https://youtu.be/sXcS5w_ABlA
 ```
 
 # References
+
+[Tutorial by Deep Programming](https://www.youtube.com/watch?v=FIc_OCNLf4Q)
+
 Going places with Android - Codelab
 ```
 https://kiosk-dot-codelabs-site.appspot.com/codelabs/fire-place/index.html?index=..%2F..android-dev-summit&viewga=UA-69243313-1#4
