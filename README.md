@@ -1,6 +1,6 @@
 # GeoStrat
 ### [Youtube](https://youtu.be/sXcS5w_ABlA) 
-### Logo 
+### Logo: Made with [Canva](https://www.canva.com/)
 ![logo_green_svg](https://user-images.githubusercontent.com/77748858/196349537-367f2f02-b377-495b-93f9-be63bc6e34f1.svg)
 
 # App Features :
