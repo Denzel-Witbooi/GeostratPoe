@@ -1,4 +1,8 @@
 # GeoStrat
+
+### About the project
+GeoStrat is an app that our development team developed to serve as a basic local landmark guide. The software helps users locate nearby landmarks, such as monuments, parks, and other attractions. The software gives the user directions for the quickest path to a specific landmark. The user may see this location data via an aesthetically pleasing GUI, and it uses the GPS to track the user's location, so they always know where they are.
+
 ### Demo
 [Youtube](https://youtu.be/sXcS5w_ABlA)
 ### Logo
